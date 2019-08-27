@@ -11,8 +11,7 @@ public class Controller {
     @FXML
     public TextArea ta_clientRespond;
 
-    @FXML
-    public TextArea ta_serverRespond;
+
 
 
 
