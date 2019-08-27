@@ -36,8 +36,8 @@ public class Server implements Runnable {
 
             InetAddress inetAddress = socket.getInetAddress();
 
-            System.out.println("Client's host name is " + inetAddress.getHostName());
-            System.out.println("Client's IP address is " + inetAddress.getHostAddress());
+            System.out.println("Client's host name is: " + inetAddress.getHostName());
+            System.out.println("Client's IP address is: " + inetAddress.getHostAddress());
 
 
 
